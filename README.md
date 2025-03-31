@@ -35,7 +35,7 @@ I'm a passionate student pursuing my majors in **Computer Science and Engineerin
 -->
 ## Get in Touch 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/shikhar-kanaujia-b385a6252)
+- [LinkedIn](www.linkedin.com/in/shikhar-kanaujia-b385a6252)
 
 
 

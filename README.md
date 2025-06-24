@@ -7,7 +7,7 @@
 I'm a passionate student pursuing my majors in **Computer Science and Engineering** at **IIIT Sonepat** with experience in languages like **C, C++, JavaScript** and frameworks/libraries like **ReactJS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Application Development (Qt)**
-- 🌍 Languages: **C, C++, HTML, CSS, JavaScript, Python, ReactJS, Qt**
+- 🌍 Languages: **C, C++, HTML, CSS, JavaScript, Python, ReactJS, Qt, Django**
 - 📫 How to reach me: **www.linkedin.com/in/shikhar-kanaujia-b385a6252**
 
 ## My Skills 🧠
